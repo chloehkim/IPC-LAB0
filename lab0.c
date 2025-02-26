@@ -1,7 +1,7 @@
 /***************************************************************** 
 
     File: lab0.c
-    Author: [Your Name]
+    Author: [chloe kim]
     Student Number: [Your Student Number]
 
     To compile program in codespaces, in terminal pane type:
